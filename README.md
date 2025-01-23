@@ -1,8 +1,31 @@
-I was create an apk, that was BMI apk, or Body Mass Index.
+## **README.md (BMI Calculator App - Flutter)**  
 
-Body Mass Index (BMI) is a person's weight in kilograms (or pounds) divided by the square of height in meters (or feet). 
+### **📌 BMI Calculator App**  
+A simple **Body Mass Index (BMI) Calculator** built using **Flutter & Dart**. This app allows users to calculate their **BMI** based on weight and height, providing a quick screening for potential health risks related to body weight.  
 
-A high BMI can indicate high body fatness. 
+### **🚀 Features**  
+- ✅ **BMI Calculation** based on weight (kg/lbs) and height (m/ft)  
+- ✅ **Simple & Intuitive UI** for easy user experience  
+- ✅ **Instant Results** with categorized BMI interpretation  
 
-BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.
-Just a simple UI and program. 
+### **🛠️ Tech Stack**  
+- **Language:** Dart  
+- **Framework:** Flutter  
+- **UI:** Material Design  
+- **State Management:** setState (Basic)  
+
+### **📱 Screenshots**  
+_(Add images here)_  
+
+### **📌 Installation**  
+```bash
+git clone https://github.com/yourusername/bmi-calculator.git
+cd bmi-calculator
+flutter pub get
+flutter run
+```
+
+### **📜 License**  
+MIT License  
+
+🚀 **Built with Flutter for simple health tracking!**
