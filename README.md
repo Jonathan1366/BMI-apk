@@ -14,9 +14,6 @@ A simple **Body Mass Index (BMI) Calculator** built using **Flutter & Dart**. Th
 - **UI:** Material Design  
 - **State Management:** setState (Basic)  
 
-### **📱 Screenshots**  
-_(Add images here)_  
-
 ### **📌 Installation**  
 ```bash
 git clone https://github.com/yourusername/bmi-calculator.git
